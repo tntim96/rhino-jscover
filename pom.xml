@@ -80,7 +80,7 @@
     <test.skip.mozsuite>false</test.skip.mozsuite>
     <test.excludes>nothing</test.excludes>
     <!-- -->
-    <last.release.tag>Rhino1_7R5_RELEASE</last.release.tag>
+    <last.release.tag>Rhino1_7R5pre05</last.release.tag>
     <next.release.tag>master</next.release.tag>
   </properties>
 
